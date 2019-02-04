@@ -1,6 +1,6 @@
 # relation_extraction
 
-## To Run 
+To Run 
 
 ```pip3 install textblob```
 
